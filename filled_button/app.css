@@ -1,0 +1,17 @@
+.button {
+    background-color: #ff6336;
+    border: none;
+    color: white;
+    padding: 20px 24px;
+    font-family: Roboto, sans-serif;
+    font-size: 14px;
+    line-height: 150%;
+    letter-spacing: 0.5px;
+    min-width: 160px;
+    cursor: pointer;
+    display: inline-block;
+    box-sizing: border-box;
+    text-decoration: none;
+    text-align: center;
+    user-select: none;
+}
